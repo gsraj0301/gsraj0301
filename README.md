@@ -12,7 +12,7 @@
 
 ## 👋 Hey, I'm Raj
 
-First-year AI & DS student. I learn by building things and putting them in front of real people, usually before they're ready. I make full-stack platforms and automations, I write novels as *Raj G* when no one is looking, and I'm easily distracted by the next idea.
+Second-year AI & DS student. I learn by building things and putting them in front of real people, usually before they're ready. I make full-stack platforms and automations, I write novels as *Raj G* when no one is looking, and I'm easily distracted by the next idea.
 
 ## 🧭 How I build
 
